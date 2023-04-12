@@ -48,7 +48,7 @@ def update_time():
 
 
 def check_input(event):
-    if not re.fullmatch('^[0-2]?[0-9]:[0-5][0-9]:[0-5][0-9]$', alarm_entry.get()):
+    if not re.fullmatch('^[0-2][0-9]:[0-5][0-9]:[0-5][0-9]$', alarm_entry.get()):
         alarm_entry.delete(0, tk.END)
 
 
