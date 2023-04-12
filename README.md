@@ -4,3 +4,4 @@ I want to recreate that widget on python.
 To change alarm sound press folder button
 To disable\enable alarm clock press clock button
 When you click entry alarm set to current time + 10 minutes
+In dist folder script compilated to exe
