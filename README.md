@@ -5,4 +5,4 @@ To change alarm sound press folder button
 To disable\enable alarm clock press clock button
 When you click entry alarm set to current time + 10 minutes
 In dist folder script compilated to exe
-![image](https://github.com/ReimuJF/Alarm-widget/assets/7511344/c19f48df-9414-4140-a71e-c17684807cc2)
+<br>![image](https://github.com/ReimuJF/Alarm-widget/assets/7511344/c19f48df-9414-4140-a71e-c17684807cc2)
